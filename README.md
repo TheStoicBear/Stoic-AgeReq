@@ -14,9 +14,20 @@ Stoic-AgeReq is a FiveM resource designed to enforce age verification for player
 
 Stoic-AgeReq provides a free alternative to paid age verification resources available for FiveM servers. By using Stoic-AgeReq, server owners can ensure compliance with age restrictions without incurring additional costs.
 
+
+
+
+
+## Previews
+![1](https://github.com/user-attachments/assets/bfd86b25-1a60-44e4-9e34-9493ae5617e7)
+![2](https://github.com/user-attachments/assets/33451d7e-9ea4-4fed-b74d-299910450fe3)
+![3](https://github.com/user-attachments/assets/09a2403a-e64c-4694-82a1-6587f6a8041b)
+
+
+
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/YourGitHubUsername/Stoic-AgeReq/releases).
+1. Download the latest release from the [releases page](https://github.com/TheStoicBear/Stoic-AgeReq).
 2. Extract the `Stoic-AgeReq` folder into your FiveM server's `resources` directory.
 3. Add `ensure Stoic-AgeReq` to your `server.cfg` configuration file.
 4. Configure `Config.lua` to set your desired minimum age requirement and action settings.
@@ -24,6 +35,7 @@ Stoic-AgeReq provides a free alternative to paid age verification resources avai
 ## Usage
 
 Once installed and configured, Stoic-AgeReq will prompt players upon joining the server to verify their age. Actions specified in `Config.lua` will be taken automatically based on whether the player meets the age requirement.
+use `/verifyage` this can be easily changed to anything you need. 
 
 ## Configuration
 
