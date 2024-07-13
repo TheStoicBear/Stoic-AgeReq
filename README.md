@@ -1,5 +1,5 @@
 # Stoic-AgeReq
-[![STOIC (1)](http://img.thestoicbear.dev/images/Stoic-2024-07-13_02-52-46-6691ebfe19ea0.png)
+[![STOIC (1)](https://img.thestoicbear.dev/images/Stoic-2024-07-13_02-52-46-6691ebfe19ea0.png)
 
 Stoic-AgeReq is a FiveM resource designed to enforce age verification for players joining your server. It prompts players to confirm their age through an interactive dialog and takes action based on whether they meet the minimum age requirement set by your server.
 
